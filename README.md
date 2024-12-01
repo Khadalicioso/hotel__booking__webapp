@@ -46,7 +46,7 @@ A modern and efficient hotel booking system that provides seamless room reservat
    # For XAMPP: C:/xampp/htdocs/
    # For WAMP: C:/wamp64/www/
    cd your-web-server-directory
-   git clone [your-repository-url]
+   git clone [https://github.com/Khadalicioso/kpl_hotel_and_resort.git]
 
    # 3. Navigate to project directory
    cd kpl_hotel_and_resort
